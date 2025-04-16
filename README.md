@@ -33,8 +33,8 @@ To run the app, type the following command in the terminal.
 ## Demo video
 
  [Emotion-based music recommendation system]
+(https://drive.google.com/file/d/1vYgwEFARAFz741WRa3SB6pdq4cDS2Ssn/preview)
 
-<video controls src="Emotion Based Music Recommendation system-1.mp4" title="Title"></video>
 
  
 
