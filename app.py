@@ -30,8 +30,8 @@ df = df.sort_values(by=["emotional", "pleasant"])
 df.reset_index(drop=True, inplace=True)
 
 # Split into emotions
-df_sad = df[:18000]
-df_fear = df[18000:36000]
+df_sad = df[:20000]
+df_fear = df[20000:36000]
 df_angry = df[36000:54000]
 df_neutral = df[54000:72000]
 df_happy = df[72000:]
